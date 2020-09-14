@@ -1,0 +1,60 @@
+{
+        "_id" : ObjectId("5ea19c3313782260d807511d"),
+        "Manufactor" : "Apple",
+        "Model" : "iPhone XS",
+        "Price" : "650"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d807511e"),
+        "Manufactor" : "Apple",
+        "Model" : "iPhone 11",
+        "Price" : "760"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d807511f"),
+        "Manufactor" : "Apple",
+        "Model" : "iPhone 11 Pro Max",
+        "Price" : "1180"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075120"),
+        "Manufactor" : "Apple",
+        "Model" : "iPhone XR",
+        "Price" : "650"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075121"),
+        "Manufactor" : "Samsung",
+        "Model" : "Galaxy S10 Plus",
+        "Price" : "830"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075122"),
+        "Manufactor" : "Samsung",
+        "Model" : "Galaxy S10",
+        "Price" : "590"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075123"),
+        "Manufactor" : "Sunsung",
+        "Model" : "Galaxy S11",
+        "Price" : "650"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075124"),
+        "Manufactor" : "Huawei",
+        "Model" : "P30",
+        "Price" : "440"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075125"),
+        "Manufactor" : "Huawei",
+        "Model" : "P30 Pro",
+        "Price" : "500"
+}
+{
+        "_id" : ObjectId("5ea19c3313782260d8075126"),
+        "Manufactor" : "Huawei",
+        "Model" : "P30 Lite",
+        "Price" : "230"
+}

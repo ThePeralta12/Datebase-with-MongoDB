@@ -1,0 +1,30 @@
+{
+        "_id" : ObjectId("5ea1f5d293becc8160c45216"),
+        "Customers" : {
+                "customers_id" : "5ea192bea47e963344427fbe",
+                "Orders" : {
+                        "item_id1" : "5ea19c3313782260d807511f",
+                        "item_id2" : "5ea19c3313782260d8075121"
+                }
+        }
+}
+{
+        "_id" : ObjectId("5ea20848953f822f84cec906"),
+        "Customers" : {
+                "customers_id" : "5ea1911370bd735ed4b31b7e",
+                "Orders" : {
+                        "item_id1" : "5ea19c3313782260d8075122",
+                        "item_id2" : "5ea19c3313782260d8075125",
+                        "item_id3" : "5ea19c3313782260d8075126"
+                }
+        }
+}
+{
+        "_id" : ObjectId("5ea20848953f822f84cec907"),
+        "Customers" : {
+                "customers_id" : "5ea1911370bd735ed4b31b87",
+                "Orders" : {
+                        "item_id1" : "5ea19c3313782260d8075120"
+                }
+        }
+}
